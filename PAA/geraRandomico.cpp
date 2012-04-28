@@ -40,11 +40,11 @@ int main(){
 
     clock_t beg;
     beg=clock();
-    srand( (unsigned)time(NULL) );
+    srand(time(NULL));
 
     for(int j = 0; j<50; j++){
-        for(int i = 0; i<100000 ;i++){       //gerando nums aleatório até 10^5
-            int numero = rand()%65536;
+        for(int i = 0; i<100000 ;i++){       //gerando nums aleatório até 10^5 casas (short int)
+            unsigned short int numero = (unsigned short int)RAND_MAX*rand();
             cout<<numero<<" ";
         }
         cout<<endl;
