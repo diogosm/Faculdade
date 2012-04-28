@@ -1,4 +1,4 @@
-Faculdade
+﻿Faculdade
 =========
 
-Códigos em C, Assembly e etc de matérias da faculdade.
+Códigos em C, c++, Assembly e etc de matérias da faculdade. :)
