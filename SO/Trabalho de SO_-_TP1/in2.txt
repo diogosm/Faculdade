@@ -1,0 +1,11 @@
+Processo 1 saque 0
+Processo 2 saque 50
+Processo 3 deposito 150
+Processo 4 saque 250
+Processo 5 consulta
+Processo 6 saque 450
+Processo 7 saque 550
+Processo 8 consulta
+Processo 9 saque 750
+Processo 10 deposito 8500
+Processo 11 deposito 950

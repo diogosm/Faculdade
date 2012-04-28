@@ -39,6 +39,10 @@ typedef unsigned int uint;
 using namespace std;
 int vetorDeCemMil[100000];
 
+/**
+    Heapsort based on Cormen version
+    Heapsort main function
+**/
 void heapsort(int a[], int n){
    int i = n/2, pai, filho;
    int t;

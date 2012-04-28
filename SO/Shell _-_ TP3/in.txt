@@ -1,0 +1,11 @@
+
+Iniciando um comando unico [pwd]
+Executando o processo [pwd]
+Iniciando um comando unico [cd ~]
+Executando o processo [cd ~]
+Iniciando um comando unico [pwd]
+Executando o processo [pwd]
+Iniciando um comando unico [ls]
+Executando o processo [ls]
+Iniciando um comando unico [exit]
+Executando o processo [exit]

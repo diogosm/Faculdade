@@ -1,0 +1,13 @@
+total 72
+-rw-r--r-- 1 diogo diogo  5287 2010-07-16 17:03 cheu.c~
+-rw-r--r-- 1 diogo diogo     0 2010-07-16 17:23 in.txt
+-rw-r--r-- 1 diogo diogo   111 2010-07-16 17:06 Makefile
+-rw-r--r-- 1 diogo diogo   110 2010-07-16 17:05 Makefile~
+-rw-r--r-- 1 diogo diogo  3371 2010-07-16 16:08 parse.c
+-rw-r--r-- 1 diogo diogo  3544 2007-06-01 00:27 parse.c~
+-rw-r--r-- 1 diogo diogo   408 2010-07-16 16:08 parse.h
+-rw-r--r-- 1 diogo diogo   595 2007-06-01 00:57 parse.h~
+-rw-r--r-- 1 diogo diogo     0 2010-07-16 17:25 saida.txt
+-rwxr-xr-x 1 diogo diogo 20829 2010-07-16 17:17 shell
+-rw-r--r-- 1 diogo diogo  5379 2010-07-16 17:17 shell.c
+-rw-r--r-- 1 diogo diogo  5377 2010-07-16 17:17 shell.c~

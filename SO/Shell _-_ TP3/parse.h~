@@ -1,0 +1,18 @@
+/*
+ * Primeiro Trabalho Prático de SO - 2007/1
+ * Professor:
+ *      Edjard Mota
+ * Monitor:
+ *      Bruno de Oliveira Abinader
+ * Autores:
+ *      Adriano Gomes de Sousa - 20510533 <adrianogomes2004@gmail.com>
+ *      Willer Davis Vercosa Moreira - 20510518 <willer.davis@gmail.com>
+*/
+
+#include <regex.h>
+
+extern char *get_match(const char *str, const regmatch_t *match, int addr);
+extern regmatch_t *match_pipe(const char *linha_cmd);
+extern regmatch_t *match_redir(const char *linha_cmd);
+extern regmatch_t *match_cmd(const char *linha_cmd);
+extern char **parse_cmd(const char *linha_cmd);
