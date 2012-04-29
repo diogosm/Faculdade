@@ -1,0 +1,122 @@
+# Cria uma nova arvore
+Arvore criada
+
+# Cria uma nova arvore
+Arvore criada
+
+elemento 372 inserido
+elemento 245 inserido
+elemento 491 inserido
+elemento 474 inserido
+elemento 440 inserido
+elemento 122 inserido
+elemento 418 inserido
+elemento 125 inserido
+elemento 934 inserido
+elemento 752 inserido
+elemento 752 não inserido
+Item 440 removido
+-372 
+-245 
+-122 
+-125 
+-491 
+-474 
+-418 
+-934 
+-752 
+-372 
+-245 
+-122 
+-125 
+-491 
+-474 
+-418 
+-934 
+-752 
+-122 
+-125 
+-245 
+-372 
+-418 
+-474 
+-491 
+-752 
+-934 
+-122 
+-125 
+-245 
+-372 
+-418 
+-474 
+-491 
+-752 
+-934 
+-125 
+ -122 
+ -245 
+ -418 
+ -474 
+ -752 
+ -934 
+ -491 
+ -372 
+ -125 
+ -122 
+ -245 
+ -418 
+ -474 
+ -752 
+ -934 
+ -491 
+ -372 
+ 
+# Alterar um elemento da arvore
+Item 125 alterado para 330 
+
+
+# Alterar um elemento da arvore
+Item 125 alterado para 330 
+
+# Pesquisa pelo item 122 
+Item 122 achado
+
+# Pesquisa pelo item 122 
+Item 122 achado
+
+# Pesquisa pelo item 441
+Item 441 não existente
+
+# Pesquisa pelo item 441
+Item 441 não existente
+
+# Retorna o maior valor
+O maior item eh 934
+# Retorna o maior valor
+O maior item eh 934
+
+# retorna o menor da arvore
+O menor item eh 122
+
+# retorna o menor da arvore
+O menor item eh 122
+
+# Retorna a soma dos elementos 
+A soma dos elementos eh: 4138
+
+
+# Retorna a soma dos elementos 
+A soma dos elementos eh: 4138
+
+
+# Retorna a maior sub-arvore
+A sub arvore maior eh(-1-nenhuma) (1-esquerda) (2-direira): -1
+
+
+# Retorna a maior sub-arvore
+A sub arvore maior eh(-1-nenhuma) (1-esquerda) (2-direira): -1
+
+
+# Imprime a altura
+A altura eh: 4
+
