@@ -1,0 +1,8 @@
+//      
+//      
+//      Copyright 2012 Diogo Soares Moreira <diogo@diogo-laptop>
+//      
+
+
+O problema do Aliens espera uma solução de Geometria Computacional, mais precisamente uma técnica de menor invólucro convexo circular.
+	A solução foi encontrada com o uso da técnica de Minimal Enclosing Disk com a aplicação de otimização para o encontro do raio mínimo de um centroide que forme um circulo convexo que contenha todas as comunidades em seu interior ou borda. O algoritmo utilizado usa uma abordagem de otimização local que mantém pontos em um limite de um circulo envoltório e incrementando para todos os pontos recolocando os pares de pontos a cada interação que for necessária. O algoritmo é de tempo linear O(n), que funciona bem até para as grandes entradas propostas na especificação.
